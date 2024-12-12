@@ -13,3 +13,7 @@ Install now to add a layer of privacy to your login process with just one click!
 ## Install Extension
 
 [Chrome Web Store](https://chromewebstore.google.com/detail/maskerade-blur-your-login/iaaijbjilkghmndjaoabbjkbfbkcbeaf?authuser=0&hl=en)
+
+[Firefox Add-ons](https://addons.mozilla.org/en-CA/firefox/addon/maskerade/)
+
+[Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/maskerade-blur-your-log/ngmdceecghjbljpnigohechmmckmmame)
